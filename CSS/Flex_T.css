@@ -1,0 +1,32 @@
+.container{
+    background-color: red ;
+    height: 100px;
+    flex: auto;
+    padding: 8px;
+}
+
+.p1{
+    background-color: blue;
+    border: black, 2px;
+    border-style: solid;
+    height: 50px;
+    align-items: top;
+}
+.p2{
+    background-color: red;
+    border: black 2px;
+    border-style: solid;
+    height:50px;
+    align-items: bottom;
+}
+.p3{
+    background-color: blue;
+    border: black, 2px;
+    border-style: solid;
+    height: 50px;
+    align-items: top;
+}
+.footer{
+    position: fixed;
+    bottom: 0%;
+}
